@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notekeeper</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="textDisplayVal">1</string>
+    <string name="title_activity_note_list">NoteListActivity</string>
+
+</resources>

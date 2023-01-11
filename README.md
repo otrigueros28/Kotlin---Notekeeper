@@ -1,0 +1,1 @@
+Simple notekeeping app, using Kotlin to get acquanted with tools
